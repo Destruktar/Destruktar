@@ -17,6 +17,9 @@ Actualmente estoy estudiando para poder dedicarme a la programacion web y cumpli
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 💻Proyecto Actual
+| Proyecto | Descripción |
+|----------|-------------|
+| [Blog](https://github.com/Destruktar/Writer-Blog) | Blog sencillo para agregar entradas con backend y base de datos. |
 
 ## 🚀 Proyectos Creados
 ### Propios:
