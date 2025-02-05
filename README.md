@@ -15,6 +15,8 @@ Actualmente estoy estudiando para poder dedicarme a la programacion web y cumpli
 ### 🔧Herramientas:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ## 💻Proyecto Actual
 | Proyecto | Descripción |
